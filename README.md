@@ -1,7 +1,7 @@
 I am happy when I'm unhappy.
 
 * Email: sogosonnet@gmail.com
-* Google Scholar: https://scholar.google.com/citations?user=ZRSvhBAAAAAJ&hl=ko
+* Google Scholar: http://goo.gl/I9fvoH
 
 ![Jae's github stats](https://github-readme-stats.vercel.app/api?username=JaehyunAhn&show_icons=true&theme=tokyonight)
 
