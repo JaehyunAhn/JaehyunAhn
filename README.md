@@ -1,4 +1,4 @@
-### Hi there 👋
+![Jae's github stats](https://github-readme-stats.vercel.app/api?username=JaehyunAhn&show_icons=true&theme=tokyonight)
 
 <!--
 **JaehyunAhn/JaehyunAhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
