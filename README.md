@@ -1,4 +1,4 @@
-I am happy when I'm unhappy.
+Copy and Taste.
 
 * Email: sogosonnet@gmail.com
 * Google Scholar: http://goo.gl/I9fvoH
